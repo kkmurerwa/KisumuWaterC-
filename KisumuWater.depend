@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595085083 source:d:\coding\brayo\kisumuwater\main.cpp
+	<iostream>
+	<sstream>
+	<stdlib.h>
+
